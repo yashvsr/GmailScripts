@@ -1,0 +1,17 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "gmailscripts",
+    "start": "index.js"
+  },
+  "author": "yashvardhanrathore",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "googleapis": "^140.0.1",
+    "readline": "^1.3.0"
+  }
+}
