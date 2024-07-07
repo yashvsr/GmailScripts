@@ -1,2 +1,2 @@
-this screenshot contains the console.log of my code which shows my top 200 emails. 
+this  contains the console.log of my code which shows my top 200 emails. 
 I have written this script in node.js
